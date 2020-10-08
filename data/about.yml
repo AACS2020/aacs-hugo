@@ -1,11 +1,21 @@
 enable  : true
-title   : Why We are Different
+title   : 协会宗旨
 description: >
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  1. 依托平台化的便利促进学术合作，激发创新
+  <br>
+  2. 通过澳洲学术人才规模化优势，从各方面帮助澳洲华人学者进行知识转化与创
+  业
+  <br>
+  3. 协助学者群体创立商业模型
+  <br>
+  4. 弥补当下华人学者在澳洲较为孤立的学术与社交环境
+  <br>
+  5. 协助储备未来的科技人才
   <br>
   <br>
-  Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
-image   : images/about/about-company.jpg
+  AACS已有百余澳洲学者入驻协会，包括计算机、工程、生物、医学、教育等专业的澳洲大学教授（包括澳洲八大) 澳洲博士及博士后。
+# image   : images/about/about-company.jpg
+image   : images/aacs/aacs-logo.png
 aboutItem:
   - title : Why Choose Us
     description: > 
