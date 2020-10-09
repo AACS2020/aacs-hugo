@@ -14,7 +14,7 @@ weight  = 2
 [[menu.main]]
 name    = "协会项目孵化中心"
 # url     = "projects"
-url     = "service"
+url     = "gallery"
 weight  = 3
 [[menu.main]]
 name    = "协会活动"
@@ -24,7 +24,7 @@ weight  = 4
 [[menu.main]]
 name    = "协会成员留言"
 # url     = "bbs"
-url     = "gallery"
+url     = "service"
 weight  = 5
 [[menu.main]]
 name    = "新闻板块"
